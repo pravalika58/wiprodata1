@@ -1,0 +1,4 @@
+C:\Users\chand\OneDrive\Desktop\WIPRO\Day3\Oops\Oops\obj\Debug\net8.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chand\OneDrive\Desktop\WIPRO\Day3\Oops\Oops\obj\Debug\net8.0\Oops.AssemblyInfoInputs.cache
+C:\Users\chand\OneDrive\Desktop\WIPRO\Day3\Oops\Oops\obj\Debug\net8.0\Oops.AssemblyInfo.cs
+C:\Users\chand\OneDrive\Desktop\WIPRO\Day3\Oops\Oops\obj\Debug\net8.0\Oops.csproj.CoreCompileInputs.cache
